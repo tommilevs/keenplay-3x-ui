@@ -1,4 +1,4 @@
-schema: playkeen/v1
+schema: unixplay/v1
 id: keenplay-3x-ui
 name: 3X-UI for Keenetic
 version: 0.1.0
